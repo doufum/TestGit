@@ -1,5 +1,4 @@
 this is an example text for learning git.
-what ever...
-test it for me!
+what ever!
 ------
 # make it changed
